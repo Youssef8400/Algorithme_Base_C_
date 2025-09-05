@@ -34,6 +34,8 @@ int main() {
 
     tri_selection(taille, tab);
 
+    printf("\n");
+    
     printf("Apres tri :\n");
     afficher(taille, tab);
 
